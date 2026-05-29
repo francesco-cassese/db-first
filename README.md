@@ -1,6 +1,6 @@
 # Concessionario Auto Usate
 
-## Schema tabella `vehicles`
+## Schema tabella `veicoli`
 
 | Nome Colonna | Tipo | Attributi | Index |
 | --- | --- | --- | --- |
